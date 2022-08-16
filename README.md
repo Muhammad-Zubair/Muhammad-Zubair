@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammad-Zubair
+- 👋 Hi, I’m @M-Zubair
 - 👀 I’m interested in ...
 i. Front End Web Developement
 ii. WordPress Web Development
