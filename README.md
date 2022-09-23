@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M-Zubair
+- 👋 Hi, I’m @M-Zubair-Bhatti
 - 👀 I’m interested in ...
 i. Front End Web Developement
 ii. WordPress Web Development
